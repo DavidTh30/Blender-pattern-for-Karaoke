@@ -10,6 +10,10 @@
 
 #Lyric Videos
 
+#Thai font for Blender
+
+#Thai font for karaoke
+
 Original pattern blender file:
 
 -Youtube: https://www.youtube.com/watch?v=s2Jn8_Fwpng
