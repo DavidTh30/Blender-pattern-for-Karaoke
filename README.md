@@ -1,7 +1,12 @@
 #Blender pattern for Karaoke
+
 #Karaoke pattern for Blender
+
 #Blender for Karaoke
+
 #Karaoke by Blender
+
+#Karaoke step by step Blender
 
 Original pattern blender file:
 
