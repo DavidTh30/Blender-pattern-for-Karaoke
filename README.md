@@ -8,6 +8,8 @@
 
 #Karaoke step by step Blender
 
+#Lyric Videos
+
 Original pattern blender file:
 
 -Youtube: https://www.youtube.com/watch?v=s2Jn8_Fwpng
