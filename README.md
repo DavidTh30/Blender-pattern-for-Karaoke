@@ -3,7 +3,7 @@
 #Blender for Karaoke
 #Karaoke by Blender
 
-Blender 4.3/Basic Karaoke_Patern01_01.png
+https://github.com/DavidTh30/Blender-pattern-for-Karaoke/blob/main/Blender 4.3/Basic Karaoke_Patern01_01.png
 
 Original pattern blender file:
 
