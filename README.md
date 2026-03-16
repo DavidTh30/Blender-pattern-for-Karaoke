@@ -16,6 +16,7 @@
 
 <img src="Blender%204.3/Basic%20Karaoke_Patern01_01.png" width="200" height="200">
 <img src="Blender%204.3/Basic%20Karaoke_Patern01_02.png" width="200" height="200">
+<img src="Blender%204.3/Basic%20Karaoke_Patern01_07.png" width="200" height="200">
 
 ![](Blender%204.3/Basic%20Karaoke_Patern01_09.png)
 
