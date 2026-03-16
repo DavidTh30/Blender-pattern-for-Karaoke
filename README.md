@@ -14,7 +14,7 @@
 
 #Thai font for karaoke
 
-<img src="Blender%204.3/Basic%20Karaoke_Patern01_09.png" width="100" height="400">
+<img src="Blender%204.3/Basic%20Karaoke_Patern01_09.png" width="100" height="10">
 
 ![](Blender%204.3/Basic%20Karaoke_Patern01_09.png)
 
