@@ -14,6 +14,8 @@
 
 #Thai font for karaoke
 
+![](Blender%204.3/Basic%20Karaoke_Patern01_09.png)
+
 Original pattern blender file:
 
 -Youtube: https://www.youtube.com/watch?v=s2Jn8_Fwpng
