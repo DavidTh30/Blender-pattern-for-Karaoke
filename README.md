@@ -1,20 +1,20 @@
 # Blender pattern for Karaoke
 
-# Karaoke pattern for Blender
+- Karaoke pattern for Blender
 
-# Blender for Karaoke
+- Blender for Karaoke
 
-# Karaoke by Blender
+- Karaoke by Blender
 
-# Karaoke step by step Blender
+- Karaoke step by step Blender
 
-# Lyric Videos
+- Lyric Videos
 
-# Hide & Reveal Text
+- Hide & Reveal Text
 
-# Thai font for Blender
+- Thai font for Blender
 
-# Thai font for karaoke
+- Thai font for karaoke
 
 For more about outline: https://github.com/DavidTh30/Outline-Solidify-In-Blender
 
