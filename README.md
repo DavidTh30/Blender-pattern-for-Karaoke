@@ -1,18 +1,20 @@
-#Blender pattern for Karaoke
+# Blender pattern for Karaoke
 
-#Karaoke pattern for Blender
+# Karaoke pattern for Blender
 
-#Blender for Karaoke
+# Blender for Karaoke
 
-#Karaoke by Blender
+# Karaoke by Blender
 
-#Karaoke step by step Blender
+# Karaoke step by step Blender
 
-#Lyric Videos
+# Lyric Videos
 
-#Thai font for Blender
+# Hide & Reveal Text
 
-#Thai font for karaoke
+# Thai font for Blender
+
+# Thai font for karaoke
 
 <img src="Blender%204.3/Basic%20Karaoke_Patern01_01.png" width="200" height="200">
 <img src="Blender%204.3/Basic%20Karaoke_Patern01_02.png" width="200" height="200">
