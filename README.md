@@ -16,6 +16,8 @@
 
 # Thai font for karaoke
 
+For more about outline: https://github.com/DavidTh30/Outline-Solidify-In-Blender
+
 <img src="Blender%204.3/Basic%20Karaoke_Patern01_01.png" width="200" height="200">
 <img src="Blender%204.3/Basic%20Karaoke_Patern01_02.png" width="200" height="200">
 <img src="Blender%204.3/Basic%20Karaoke_Patern01_07.png" width="200" height="200">
